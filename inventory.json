@@ -1,6 +1,6 @@
 {
   "dealership": "Campus Nissan",
-  "generated_at": "2026-09-26T03:32:42",
+  "generated_at": "2026-10-08T14:35:34",
   "vehicle_count": 215,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -20,13 +20,16 @@
       "year": 2007,
       "make": "Lexus",
       "model": "ES",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2009 Honda CR-V EX-L | 4WD | Power Moonroof |",
       "vin": "5J6RE48779L807820",
       "stock": "JN4418A",
       "color": "Grey",
+      "trim": "EX-L",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/2b976a9d38e6.html",
       "source_url": "https://www.campusnissan.com/vehicles/2009/honda/cr-v/victoria/bc/70982957/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2009/honda/cr-v/victoria/bc/70982957/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -36,14 +39,17 @@
       "odometer_km": 196876,
       "year": 2009,
       "make": "Honda",
-      "model": "CR-V EX-L",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2009 Nissan Versa 5dr HB I4 CVT 1.8 SL -Ltd Avail-",
       "vin": "3N1BC13E89L360679",
       "stock": "A9141A",
       "color": "Blue",
+      "trim": "5dr HB I4 1.8 SL -Ltd Avail",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d3dd24f20989.html",
       "source_url": "https://www.campusnissan.com/vehicles/2009/nissan/versa/victoria/bc/71405544/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2009/nissan/versa/victoria/bc/71405544/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -51,14 +57,17 @@
       "odometer_km": 212554,
       "year": 2009,
       "make": "Nissan",
-      "model": "Versa 5dr HB I4 CVT 1.8 SL -Ltd Avail-",
-      "condition": "used"
+      "model": "Versa",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2010 Nissan Altima 2.5 SL Package | Clean History | Low Kilometers |",
       "vin": "1N4AL2AP8AC160779",
       "stock": "A9128",
       "color": "Black",
+      "trim": "2.5 SL Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/8e820c09517e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2010/nissan/altima/victoria/bc/71094245/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2010/nissan/altima/victoria/bc/71094245/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -68,14 +77,17 @@
       "odometer_km": 55840,
       "year": 2010,
       "make": "Nissan",
-      "model": "Altima 2.5 SL Package",
-      "condition": "used"
+      "model": "Altima",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2013 Ford Escape SEL | 4WD | One Local Owner | Low Kilometers |",
       "vin": "1FMCU9H97DUB34152",
       "stock": "6-F120A",
       "color": "Silver",
+      "trim": "SEL",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/9fd36531a7c0.html",
       "source_url": "https://www.campusnissan.com/vehicles/2013/ford/escape/victoria/bc/71245043/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2013/ford/escape/victoria/bc/71245043/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -85,14 +97,17 @@
       "odometer_km": 153829,
       "year": 2013,
       "make": "Ford",
-      "model": "Escape SEL",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Altima 2.5 SL | One Owner | Nissan Serviced | Low Kms |",
       "vin": "1N4AL3AP6EN389493",
       "stock": "6-F121A",
       "color": "Blue",
+      "trim": "2.5 SL",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/96a3657b0035.html",
       "source_url": "https://www.campusnissan.com/vehicles/2014/nissan/altima/victoria/bc/71343264/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2014/nissan/altima/victoria/bc/71343264/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -102,8 +117,10 @@
       "odometer_km": 72864,
       "year": 2014,
       "make": "Nissan",
-      "model": "Altima 2.5 SL",
-      "condition": "used"
+      "model": "Altima",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2014 Nissan Rogue ",
@@ -120,13 +137,16 @@
       "year": 2014,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2015 Honda CR-V Touring | One Local Owner |",
       "vin": "5J6RM4H9XFL804233",
       "stock": "6-F124A",
       "color": "Blue",
+      "trim": "Touring",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/e330bd164aa6.html",
       "source_url": "https://www.campusnissan.com/vehicles/2015/honda/cr-v/victoria/bc/71287265/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2015/honda/cr-v/victoria/bc/71287265/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -136,14 +156,17 @@
       "odometer_km": 146537,
       "year": 2015,
       "make": "Honda",
-      "model": "CR-V Touring",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2016 Mazda CX-5 GT | Local Vehicle |",
       "vin": "JM3KE4DY5G0811585",
       "stock": "A9129A",
       "color": "Blue",
+      "trim": "GT",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/2ebfc65ea841.html",
       "source_url": "https://www.campusnissan.com/vehicles/2016/mazda/cx-5/victoria/bc/71236014/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2016/mazda/cx-5/victoria/bc/71236014/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -153,14 +176,17 @@
       "odometer_km": 100608,
       "year": 2016,
       "make": "Mazda",
-      "model": "CX-5 GT",
-      "condition": "used"
+      "model": "CX-5",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Hyundai Santa Fe Sport 2.4L | One Island Owner | Low Kilometers |",
       "vin": "5XYZT3LB5HG449595",
       "stock": "6-P556A",
       "color": "Grey",
+      "trim": "Sport",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/af5f9f328a27.html",
       "source_url": "https://www.campusnissan.com/vehicles/2017/hyundai/santa-fe-sport/victoria/bc/71343263/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2017/hyundai/santa-fe-sport/victoria/bc/71343263/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -170,8 +196,10 @@
       "odometer_km": 96066,
       "year": 2017,
       "make": "Hyundai",
-      "model": "Santa Fe Sport 2.4L",
-      "condition": "used"
+      "model": "Santa Fe",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Lexus ES | One Local Owner | Low Kilometers |",
@@ -188,13 +216,16 @@
       "year": 2017,
       "make": "Lexus",
       "model": "ES",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2017 Nissan Pathfinder SL | 4WD | One Local Owner | Low Kilometers |",
       "vin": "5N1DR2MM9HC900398",
       "stock": "6-P611A",
       "color": "Blue",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/96e6fb95658b.html",
       "source_url": "https://www.campusnissan.com/vehicles/2017/nissan/pathfinder/victoria/bc/71305067/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2017/nissan/pathfinder/victoria/bc/71305067/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -204,14 +235,17 @@
       "odometer_km": 77634,
       "year": 2017,
       "make": "Nissan",
-      "model": "Pathfinder SL",
-      "condition": "used"
+      "model": "Pathfinder",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Kicks SV | Clean History | Low Kms | Island Vehicle |",
       "vin": "3N1CP5CV5LL566890",
       "stock": "A9124A",
       "color": "Blue",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/593f10fb8084.html",
       "source_url": "https://www.campusnissan.com/vehicles/2020/nissan/kicks/victoria/bc/71348062/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2020/nissan/kicks/victoria/bc/71348062/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -221,14 +255,17 @@
       "odometer_km": 54458,
       "year": 2020,
       "make": "Nissan",
-      "model": "Kicks SV",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2020 Nissan Qashqai AWD SL | One Local Owner | Clean History |",
       "vin": "JN1BJ1CWXLW394641",
       "stock": "6-F127A",
       "color": "White",
+      "trim": "SL",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d93f6a8ef1d7.html",
       "source_url": "https://www.campusnissan.com/vehicles/2020/nissan/qashqai/victoria/bc/71316540/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2020/nissan/qashqai/victoria/bc/71316540/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -238,14 +275,17 @@
       "odometer_km": 31283,
       "year": 2020,
       "make": "Nissan",
-      "model": "Qashqai AWD SL",
-      "condition": "used"
+      "model": "Qashqai",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Nissan Qashqai S | AWD | One Local Owner | Clean History |",
       "vin": "JN1BJ1AW5MW436444",
       "stock": "6-Y626A",
       "color": "Blue",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/0a476a3339a8.html",
       "source_url": "https://www.campusnissan.com/vehicles/2021/nissan/qashqai/victoria/bc/71327120/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2021/nissan/qashqai/victoria/bc/71327120/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -255,14 +295,17 @@
       "odometer_km": 38712,
       "year": 2021,
       "make": "Nissan",
-      "model": "Qashqai S",
-      "condition": "used"
+      "model": "Qashqai",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Outback 2.5i Limited  | Clean History | Local Vehicle |",
       "vin": "4S4BTDNCXM3159201",
       "stock": "A9125A",
       "color": "White",
+      "trim": "2.5i Limited",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/dff1f8148283.html",
       "source_url": "https://www.campusnissan.com/vehicles/2021/subaru/outback/victoria/bc/71243854/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2021/subaru/outback/victoria/bc/71243854/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -272,14 +315,17 @@
       "odometer_km": 63771,
       "year": 2021,
       "make": "Subaru",
-      "model": "Outback 2.5i Limited",
-      "condition": "used"
+      "model": "Outback",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Nissan Frontier Crew Cab Crew Cab PRO-4X Standard Bed 4x4",
       "vin": "1N6ED1EK9NN681793",
       "stock": "A9146",
       "color": "Grey",
+      "trim": "PRO-4X Standard Bed",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/f300243c4f1d.html",
       "source_url": "https://www.campusnissan.com/vehicles/2022/nissan/frontier-crew-cab/victoria/bc/71400093/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2022/nissan/frontier-crew-cab/victoria/bc/71400093/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -289,14 +335,17 @@
       "odometer_km": 55254,
       "year": 2022,
       "make": "Nissan",
-      "model": "Frontier Crew Cab Crew Cab PRO-4X Standard Bed 4x4",
-      "condition": "used"
+      "model": "Frontier",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Classic Express 4x4 Quad Cab 6'4 Box | One Owner | Low KMs",
       "vin": "1C6RR7FT7NS244836",
       "stock": "6-K225A",
       "color": "Black",
+      "trim": "Express Quad 6'4 Box",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/8646671402d4.html",
       "source_url": "https://www.campusnissan.com/vehicles/2022/ram/1500-classic/victoria/bc/70664778/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2022/ram/1500-classic/victoria/bc/70664778/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -306,14 +355,17 @@
       "odometer_km": 30613,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Classic Express 4x4 Quad Cab 6'4 Box",
-      "condition": "used"
+      "model": "1500 Classic",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2022 Subaru Crosstrek Outdoor CVT",
       "vin": "JF2GTHSC7NH240104",
       "stock": "JN4436",
       "color": "Grey",
+      "trim": "Outdoor",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d3db4555f485.html",
       "source_url": "https://www.campusnissan.com/vehicles/2022/subaru/crosstrek/victoria/bc/71402840/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2022/subaru/crosstrek/victoria/bc/71402840/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -323,14 +375,17 @@
       "odometer_km": 7441,
       "year": 2022,
       "make": "Subaru",
-      "model": "Crosstrek Outdoor CVT",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Escape ST-Line AWD | Backup Camera |",
       "vin": "1FMCU9MN6PUA45163",
       "stock": "JN4402B",
       "color": "Grey",
+      "trim": "ST-Line",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/271b350b719b.html",
       "source_url": "https://www.campusnissan.com/vehicles/2023/ford/escape/victoria/bc/70617164/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2023/ford/escape/victoria/bc/70617164/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -340,14 +395,17 @@
       "odometer_km": 80265,
       "year": 2023,
       "make": "Ford",
-      "model": "Escape ST-Line AWD",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Frontier Crew Cab Crew Cab SV | Clean History | One Local Owner |",
       "vin": "1N6ED1FK1PN604532",
       "stock": "A9143",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/38faef570630.html",
       "source_url": "https://www.campusnissan.com/vehicles/2023/nissan/frontier-crew-cab/victoria/bc/71378622/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2023/nissan/frontier-crew-cab/victoria/bc/71378622/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -357,14 +415,17 @@
       "odometer_km": 55924,
       "year": 2023,
       "make": "Nissan",
-      "model": "Frontier Crew Cab Crew Cab SV",
-      "condition": "used"
+      "model": "Frontier",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Leaf Hatchback SV PLUS | Hatchback | Campus Serviced | 12 Bars |",
       "vin": "1N4CZ1CV0PC550149",
       "stock": "E-A9127",
       "color": "Black",
+      "trim": "SV PLUS",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/629acc9f394f.html",
       "source_url": "https://www.campusnissan.com/vehicles/2023/nissan/leaf-hatchback/victoria/bc/71088652/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2023/nissan/leaf-hatchback/victoria/bc/71088652/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -374,14 +435,17 @@
       "odometer_km": 89203,
       "year": 2023,
       "make": "Nissan",
-      "model": "Leaf Hatchback SV PLUS",
-      "condition": "used"
+      "model": "Leaf",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB2PW210675",
       "stock": "A9147",
       "color": "Silver",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/29e8b1f9e19d.html",
       "source_url": "https://www.campusnissan.com/vehicles/2023/nissan/rogue/victoria/bc/71402839/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2023/nissan/rogue/victoria/bc/71402839/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -391,8 +455,10 @@
       "odometer_km": 49849,
       "year": 2023,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Infiniti QX55 ESSENTIAL AWD I One Local Owner I Campus Serviced",
@@ -409,13 +475,16 @@
       "year": 2024,
       "make": "Infiniti",
       "model": "QX55 ESSENTIAL AWD I One Local Owner I Campus Serviced",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Frontier Crew Cab Crew Cab 4x4 PRO-4X | One Owner | Clean History |",
       "vin": "1N6ED1EK6RN625851",
       "stock": "6-P488A",
       "color": "Brown",
+      "trim": "PRO-4X",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/df7259803a25.html",
       "source_url": "https://www.campusnissan.com/vehicles/2024/nissan/frontier-crew-cab/victoria/bc/71170630/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2024/nissan/frontier-crew-cab/victoria/bc/71170630/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -425,14 +494,17 @@
       "odometer_km": 44592,
       "year": 2024,
       "make": "Nissan",
-      "model": "Frontier Crew Cab Crew Cab 4x4 PRO-4X",
-      "condition": "used"
+      "model": "Frontier",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue S I Campus Serviced I Low Kilometers I",
       "vin": "JN8BT3AB9RW445725",
       "stock": "A9122",
       "color": "Grey",
+      "trim": "S I Campus Serviced I Low Kilometers I",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/a6c17b6e006f.html",
       "source_url": "https://www.campusnissan.com/vehicles/2024/nissan/rogue/victoria/bc/70915506/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2024/nissan/rogue/victoria/bc/70915506/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -442,8 +514,10 @@
       "odometer_km": 26020,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue S I Campus Serviced I Low Kilometers I",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue AWD SV Moonroof I Clean History I Locally Driven I",
@@ -460,13 +534,16 @@
       "year": 2024,
       "make": "Nissan",
       "model": "Rogue AWD SV Moonroof I Clean History I Locally Driven I",
-      "condition": "used"
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Rogue AWD SV Moonroof | One Local Owner | Clean History",
       "vin": "JN8BT3BB8RW286596",
       "stock": "A9142",
       "color": "Silver",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d4055bcf127b.html",
       "source_url": "https://www.campusnissan.com/vehicles/2024/nissan/rogue/victoria/bc/71368702/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2024/nissan/rogue/victoria/bc/71368702/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -476,14 +553,17 @@
       "odometer_km": 33839,
       "year": 2024,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2024 Nissan Sentra Sedan SV CVT",
       "vin": "3N1AB8CV2RY347954",
       "stock": "A9144",
       "color": "Blue",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/de8cb7fa3a9a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2024/nissan/sentra-sedan/victoria/bc/71390347/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2024/nissan/sentra-sedan/victoria/bc/71390347/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -493,14 +573,17 @@
       "odometer_km": 43232,
       "year": 2024,
       "make": "Nissan",
-      "model": "Sentra Sedan SV CVT",
-      "condition": "used"
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play SV FWD | One Owner |",
       "vin": "3N1CP5CV3SL476720",
       "stock": "JN4414",
       "color": "Black",
+      "trim": "Play SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/e836d2de693a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2025/nissan/kicks-play/victoria/bc/70378527/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2025/nissan/kicks-play/victoria/bc/70378527/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -510,14 +593,17 @@
       "odometer_km": 30697,
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play SV FWD",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks Play S FWD",
       "vin": "3N1CP5BV3SL470949",
       "stock": "A9145",
       "color": "White",
+      "trim": "Play S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/68ff6c05ece7.html",
       "source_url": "https://www.campusnissan.com/vehicles/2025/nissan/kicks-play/victoria/bc/71400092/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2025/nissan/kicks-play/victoria/bc/71400092/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -527,14 +613,17 @@
       "odometer_km": 15830,
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks Play S FWD",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Kicks SV | Clean History | One Island Owner |",
       "vin": "3N8AP6CA2SL306084",
       "stock": "A9137",
       "color": "Black",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/c3a59ad577b6.html",
       "source_url": "https://www.campusnissan.com/vehicles/2025/nissan/kicks/victoria/bc/71228855/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2025/nissan/kicks/victoria/bc/71228855/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -544,14 +633,17 @@
       "odometer_km": 24368,
       "year": 2025,
       "make": "Nissan",
-      "model": "Kicks SV",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue AWD Platinum | One Local Owner | Clean History |",
       "vin": "JN8BT3DDXSW306349",
       "stock": "A9116",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/ab94d5fa66a9.html",
       "source_url": "https://www.campusnissan.com/vehicles/2025/nissan/rogue/victoria/bc/70970227/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2025/nissan/rogue/victoria/bc/70970227/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -561,14 +653,17 @@
       "odometer_km": 11711,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2025 Nissan Rogue AWD S  | Clean History | One Owner |",
       "vin": "JN8BT3AB3SW427047",
       "stock": "JN4435",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/de8a8807ba21.html",
       "source_url": "https://www.campusnissan.com/vehicles/2025/nissan/rogue/victoria/bc/71228854/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2025/nissan/rogue/victoria/bc/71228854/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -578,14 +673,17 @@
       "odometer_km": 33556,
       "year": 2025,
       "make": "Nissan",
-      "model": "Rogue AWD S",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Armada 4x4 PRO-4X",
       "vin": "JN8AY3DE4T9451098",
       "stock": "D-6-S58",
       "color": "Grey",
+      "trim": "PRO-4X",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/2248b9839b73.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/armada/victoria/bc/70617162/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/armada/victoria/bc/70617162/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -595,14 +693,17 @@
       "odometer_km": 1011,
       "year": 2026,
       "make": "Nissan",
-      "model": "Armada 4x4 PRO-4X",
-      "condition": "used"
+      "model": "Armada",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV FWD",
       "vin": "3N8AP6CEXTL348023",
       "stock": "D-6-K12",
       "color": "Black",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/91be44f0a953.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/68813718/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/68813718/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -612,14 +713,17 @@
       "odometer_km": 2351,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV FWD",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB8TL359849",
       "stock": "D-6-K13",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/b0ce1078ca46.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/68978801/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/68978801/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -629,14 +733,17 @@
       "odometer_km": 3212,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB1TL394183",
       "stock": "D-6-K42",
       "color": "Blue",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/575494e035db.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69938718/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69938718/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -646,14 +753,17 @@
       "odometer_km": 3944,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package | Clean History |",
       "vin": "3N8AP6DD1TL408194",
       "stock": "6-P468A",
       "color": "Blue",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/2da6c46e59a5.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70293395/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70293395/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -663,14 +773,17 @@
       "odometer_km": 97,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S AWD",
       "vin": "3N8AP6BB0TL349186",
       "stock": "D-6-K12",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/ca13838f2cb6.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70391959/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70391959/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -680,14 +793,17 @@
       "odometer_km": 2886,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S AWD",
-      "condition": "used"
+      "model": "Kicks",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybrid AWD Platinum",
       "vin": "JA4T0MA92TZ611188",
       "stock": "D-6-PH4",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/91855179b10d.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70059379/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70059379/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -697,14 +813,17 @@
       "odometer_km": 1011,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Plug-In Hybrid AWD Platinum",
-      "condition": "used"
+      "model": "Rogue Plug-In Hybrid",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue S",
       "vin": "JN8BT3AB5TW370139",
       "stock": "D-6-P00",
       "color": "Red",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/b8b0c0cecbdb.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/67574537/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/67574537/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -714,14 +833,17 @@
       "odometer_km": 7086,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue S",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue ROCK CREEK",
       "vin": "JN8BT3BB9TW374063",
       "stock": "D-6-P03",
       "color": "White",
+      "trim": "ROCK CREEK",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/35b05e89255e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/68117888/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/68117888/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -731,14 +853,17 @@
       "odometer_km": 7032,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue ROCK CREEK",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD8TW482852",
       "stock": "D-6-P37",
       "color": "Grey",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/6461645821f5.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69635910/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69635910/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -748,14 +873,17 @@
       "odometer_km": 1022,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB4TW096592",
       "stock": "D-6-P43",
       "color": "Blue",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/40f276022fe8.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69987919/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69987919/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -765,14 +893,17 @@
       "odometer_km": 1022,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue SV Dark Armor | One Local Owner | Clean History |",
       "vin": "JN8BT3BB2TW381906",
       "stock": "6-P546A",
       "color": "Red",
+      "trim": "SV Dark Armor",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/8ae5ff1bb225.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71104074/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71104074/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -782,14 +913,17 @@
       "odometer_km": 1300,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue SV Dark Armor",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV Premium Package",
       "vin": "3N1AB9CV9TY209051",
       "stock": "D-6-C02",
       "color": "Red",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/2df8e49b87cd.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/68978800/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/68978800/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -799,14 +933,17 @@
       "odometer_km": 2967,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra Sedan SV Premium Package",
-      "condition": "used"
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra Sedan S Sedan",
       "vin": "3N1AB9BV0TY289096",
       "stock": "D-6-C07",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/b88ac5b9a010.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/70350312/?sale_class=used",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/70350312/?sale_class=used&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -816,14 +953,17 @@
       "odometer_km": 1012,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra Sedan S Sedan",
-      "condition": "used"
+      "model": "Sentra",
+      "condition": "used",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Armada 4x4 PRO-4X",
       "vin": "JN8AY3DEXT9451817",
       "stock": "6-S624",
       "color": "Black",
+      "trim": "PRO-4X",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/f9479152de18.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/armada/victoria/bc/70819893/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/armada/victoria/bc/70819893/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -833,14 +973,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Armada 4x4 PRO-4X",
-      "condition": "new"
+      "model": "Armada",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Frontier Crew Cab Crew Cab 4x4 PRO-4X",
       "vin": "1N6ED1EK0TN667181",
       "stock": "6-T589",
       "color": "Orange",
+      "trim": "PRO-4X",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/42f03b40e527.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/frontier-crew-cab/victoria/bc/70675571/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/frontier-crew-cab/victoria/bc/70675571/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -850,14 +993,17 @@
       "odometer_km": 868,
       "year": 2026,
       "make": "Nissan",
-      "model": "Frontier Crew Cab Crew Cab 4x4 PRO-4X",
-      "condition": "new"
+      "model": "Frontier",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S AWD",
       "vin": "3N8AP6BB7TL358385",
       "stock": "6-K134",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b260eceae76d.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/68970709/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/68970709/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -867,14 +1013,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S FWD",
       "vin": "3N8AP6BE5TL366849",
       "stock": "6-K209",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/1cc770e58d73.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69309977/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69309977/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -884,14 +1033,17 @@
       "odometer_km": 260,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S FWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB5TL369013",
       "stock": "6-K308",
       "color": "Black",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/140335241200.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69455093/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69455093/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -901,14 +1053,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S AWD",
       "vin": "3N8AP6BB1TL368779",
       "stock": "6-K304",
       "color": "Grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/ef4a6a9f8095.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69455097/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69455097/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -918,14 +1073,17 @@
       "odometer_km": 23,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV FWD",
       "vin": "3N8AP6CE9TL391557",
       "stock": "6-K423",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b887ce8aa996.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69822232/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/69822232/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -935,14 +1093,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV FWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB9TL402675",
       "stock": "6-K436",
       "color": "Blue",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/346024a0971e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70020754/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70020754/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -952,14 +1113,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB9TL404846",
       "stock": "6-K451",
       "color": "White",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/4ae861866a0b.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70102970/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70102970/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -969,14 +1133,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB0TL404251",
       "stock": "6-K462",
       "color": "Blue",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/2af83468c3f6.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70156203/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70156203/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -986,14 +1153,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks S FWD",
       "vin": "3N8AP6BE7TL403867",
       "stock": "6-K461",
       "color": "White",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/7c87d3b1ca1e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70156204/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70156204/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1003,14 +1173,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks S FWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD9TL405365",
       "stock": "6-K464",
       "color": "Red",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/8daba3816e1a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70157899/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70157899/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1020,14 +1193,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD4TL406777",
       "stock": "6-K475",
       "color": "Grey",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/adad283001f5.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70224281/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70224281/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1037,14 +1213,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB2TL406714",
       "stock": "6-K474",
       "color": "White",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d77ee5809ed5.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70224282/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70224282/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1054,14 +1233,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB5TL407808",
       "stock": "6-K478",
       "color": "Grey",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/81221aaff4ae.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70236720/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70236720/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1071,14 +1253,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB4TL407458",
       "stock": "6-K483",
       "color": "White",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/a532f319a9c6.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70293392/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70293392/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1088,14 +1273,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB8TL407284",
       "stock": "6-K484",
       "color": "Grey",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/00fecc714f52.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70293393/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70293393/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1105,14 +1293,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB1TL409071",
       "stock": "6-K482",
       "color": "Blue",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/db062729a2c2.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70293397/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70293397/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1122,14 +1313,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB9TL416401",
       "stock": "6-K502",
       "color": "Red",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/9b2e2a30f199.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70338899/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70338899/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1139,14 +1333,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB6TL407350",
       "stock": "6-K503",
       "color": "White",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/72f4ae5457c5.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70338900/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70338900/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1156,14 +1353,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB2TL416417",
       "stock": "6-K499",
       "color": "Red",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/12eb05d6f1d6.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70348594/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70348594/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1173,14 +1373,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD6TL416565",
       "stock": "6-K501",
       "color": "White",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/44e38a278393.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70350314/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70350314/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1190,14 +1393,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB5TL415942",
       "stock": "6-K511",
       "color": "Red",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/414cf57485ef.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70378524/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70378524/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1207,14 +1413,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB0TL416576",
       "stock": "6-K510",
       "color": "Red",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/fc3b671592d7.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70378525/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70378525/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1224,14 +1433,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB4TL418184",
       "stock": "6-K515",
       "color": "Black",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d6a970f46284.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70442499/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70442499/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1241,14 +1453,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD0TL418263",
       "stock": "6-K516",
       "color": "Black",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/57f04b746816.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70442500/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70442500/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1258,14 +1473,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD6TL417246",
       "stock": "6-K517",
       "color": "Red",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/93a33711ee9c.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70442502/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70442502/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1275,14 +1493,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB2TL418197",
       "stock": "6-K514",
       "color": "Black",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/e5dc66a70f1a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70442504/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70442504/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1292,14 +1513,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB5TL421045",
       "stock": "6-K526",
       "color": "Grey",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d576e586455e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456543/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456543/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1309,14 +1533,17 @@
       "odometer_km": 4,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD2TL419592",
       "stock": "6-K528",
       "color": "Red",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d36534cce38c.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456545/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456545/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1326,14 +1553,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB8TL417782",
       "stock": "6-K527",
       "color": "Black",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/48522aefbe2e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456546/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456546/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1343,14 +1573,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD3TL417639",
       "stock": "6-K529",
       "color": "Grey",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/10ddd698fd1a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456548/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456548/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1360,14 +1593,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB1TL420877",
       "stock": "6-K524",
       "color": "Blue",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/6c2f182ee214.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456549/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456549/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1377,14 +1613,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD6TL420891",
       "stock": "6-K522",
       "color": "Grey",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/fa795c727e70.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456550/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70456550/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1394,14 +1633,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD3TL418886",
       "stock": "6-K533",
       "color": "Black",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d4727954584c.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70472080/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70472080/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1411,14 +1653,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV FWD",
       "vin": "3N8AP6CE8TL421244",
       "stock": "6-K537",
       "color": "Grey",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/55e1df15bc8b.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70472082/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70472082/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1428,14 +1673,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV FWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD6TL420471",
       "stock": "6-K538",
       "color": "White",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b604cc09910f.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70473543/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70473543/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1445,14 +1693,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB2TL420144",
       "stock": "6-K530",
       "color": "Grey",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/ea00cdb00b3e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70473544/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70473544/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1462,14 +1713,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB7TL418440",
       "stock": "6-K531",
       "color": "White",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/ba2ef1dfb681.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70473545/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70473545/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1479,14 +1733,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD9TL418553",
       "stock": "6-K534",
       "color": "Black",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/a009e16e3952.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70473546/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70473546/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1496,14 +1753,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB4TL419920",
       "stock": "6-K569",
       "color": "Blue",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/25a39c26958f.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70536793/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70536793/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1513,14 +1773,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV FWD",
       "vin": "3N8AP6CE2TL420722",
       "stock": "6-K571",
       "color": "Black",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/19dee3d0546d.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70536797/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70536797/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1530,14 +1793,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV FWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB5TL415746",
       "stock": "6-K580",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/088fe4fc3514.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70578374/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70578374/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1547,14 +1813,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD",
       "vin": "3N8AP6CB9TL420643",
       "stock": "6-K581",
       "color": "Red",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/6f80538d6aee.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70587212/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70587212/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1564,14 +1833,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SR AWD Premium Package",
       "vin": "3N8AP6DD4TL431307",
       "stock": "6-K582",
       "color": "Blue",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b6678c82b69a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70617163/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70617163/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1581,14 +1853,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SR AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Kicks SV AWD Premium Package",
       "vin": "3N8AP6CB2TL432066",
       "stock": "6-K588",
       "color": "Red",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/f2aba68c9b4d.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70675569/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/kicks/victoria/bc/70675569/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1598,14 +1873,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Kicks SV AWD Premium Package",
-      "condition": "new"
+      "model": "Kicks",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Leaf S+ FWD",
       "vin": "JN1AZ2BA8TM307766",
       "stock": "6-F093",
       "color": "White",
+      "trim": "S+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/fabc8b9296ea.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71019919/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71019919/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1615,14 +1893,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Leaf S+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Leaf PLATINUM+ FWD",
       "vin": "JN1AZ2EB0TM307071",
       "stock": "6-F094",
       "color": "White",
+      "trim": "PLATINUM+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/8548a7cb6b32.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71019920/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71019920/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1632,14 +1913,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Leaf PLATINUM+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Leaf PLATINUM+ FWD",
       "vin": "JN1AZ2EB0TM309189",
       "stock": "6-F106",
       "color": "Blue",
+      "trim": "PLATINUM+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/f1865e766115.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71058812/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71058812/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1649,14 +1933,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Leaf PLATINUM+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Leaf PLATINUM+ FWD",
       "vin": "JN1AZ2EB3TM308599",
       "stock": "6-F115",
       "color": "Grey",
+      "trim": "PLATINUM+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/fb4d5a48e219.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71104067/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71104067/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1666,14 +1953,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Leaf PLATINUM+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Leaf PLATINUM+ FWD",
       "vin": "JN1AZ2EB6TM309231",
       "stock": "6-F126",
       "color": "Black",
+      "trim": "PLATINUM+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/faf7a78ba383.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71293558/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71293558/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1683,14 +1973,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Leaf PLATINUM+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Leaf S+ FWD",
       "vin": "JN1AZ2BA5TM309104",
       "stock": "6-F128",
       "color": "Black",
+      "trim": "S+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/27057dbfc5cf.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71340781/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71340781/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1700,14 +1993,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Leaf S+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CA9TM301618",
       "stock": "6-F002",
       "color": "White",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d4b4c97c4a11.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71402838/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/leaf/victoria/bc/71402838/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1717,14 +2013,17 @@
       "odometer_km": 1022,
       "year": 2026,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Murano AWD Platinum",
       "vin": "5N1AZ3DSXTC124623",
       "stock": "6-Q476",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/363532f39c99.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/murano/victoria/bc/70224283/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/murano/victoria/bc/70224283/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1734,14 +2033,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Murano AWD Platinum",
-      "condition": "new"
+      "model": "Murano",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum 4WD",
       "vin": "5N1DR3DK3TC276076",
       "stock": "6-R634",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d9a500a9da0e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/pathfinder/victoria/bc/71014003/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/pathfinder/victoria/bc/71014003/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1751,14 +2053,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Pathfinder Platinum 4WD",
-      "condition": "new"
+      "model": "Pathfinder",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum 4WD",
       "vin": "5N1DR3DJ3TC278708",
       "stock": "6-R641",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/2fe5ee221b03.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/pathfinder/victoria/bc/71130406/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/pathfinder/victoria/bc/71130406/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1768,14 +2073,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Pathfinder Platinum 4WD",
-      "condition": "new"
+      "model": "Pathfinder",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum 4WD",
       "vin": "5N1DR3DJXTC285879",
       "stock": "6-R645",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b945cc6f2410.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/pathfinder/victoria/bc/71252046/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/pathfinder/victoria/bc/71252046/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1785,14 +2093,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Pathfinder Platinum 4WD",
-      "condition": "new"
+      "model": "Pathfinder",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Pathfinder Platinum 4WD",
       "vin": "5N1DR3DK8TC288496",
       "stock": "6-R649",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/6e0197e8b3a4.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/pathfinder/victoria/bc/71367396/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/pathfinder/victoria/bc/71367396/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1802,14 +2113,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Pathfinder Platinum 4WD",
-      "condition": "new"
+      "model": "Pathfinder",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybrid AWD Platinum",
       "vin": "JA4T0MA94TZ612990",
       "stock": "6-PH455",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/9c03be12cbf0.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70156205/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70156205/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1819,14 +2133,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Plug-In Hybrid AWD Platinum",
-      "condition": "new"
+      "model": "Rogue Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybrid AWD Platinum",
       "vin": "JA4T0MA94TZ621401",
       "stock": "6-PH601",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/252113387d4c.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70745974/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70745974/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1836,14 +2153,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Plug-In Hybrid AWD Platinum",
-      "condition": "new"
+      "model": "Rogue Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybrid AWD Platinum",
       "vin": "JA4T0MA99TZ620759",
       "stock": "6-PH609",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/f361643e3977.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70757575/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70757575/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1853,14 +2173,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Plug-In Hybrid AWD Platinum",
-      "condition": "new"
+      "model": "Rogue Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue Plug-In Hybrid AWD Platinum",
       "vin": "JA4T0MA96TZ621206",
       "stock": "6-PH620",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d7e31225e8b1.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70785842/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue-plug-in-hybrid/victoria/bc/70785842/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1870,14 +2193,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue Plug-In Hybrid AWD Platinum",
-      "condition": "new"
+      "model": "Rogue Plug-In Hybrid",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB1TW375966",
       "stock": "6-P179",
       "color": "Black",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/2a009b0512aa.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69172715/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69172715/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1887,14 +2213,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB0TW376543",
       "stock": "6-P375",
       "color": "Brown",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/16a03b330bc2.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69686544/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69686544/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1904,14 +2233,17 @@
       "odometer_km": 156,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BBXTW377280",
       "stock": "6-P420",
       "color": "Black",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/158d1fa66e75.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69820899/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69820899/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1921,14 +2253,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB5TW096620",
       "stock": "6-P432",
       "color": "Blue",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/9c1e12902b55.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69987920/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/69987920/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1938,14 +2273,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB3TW381221",
       "stock": "6-P439",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/feed78b215c3.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70020749/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70020749/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1955,14 +2293,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB0TW381189",
       "stock": "6-P438",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/e549d1472c75.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70020752/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70020752/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1972,14 +2313,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB7TW096795",
       "stock": "6-P442",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/8dc1dc1d1429.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70020755/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70020755/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1989,14 +2333,17 @@
       "odometer_km": 56,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB7TW096893",
       "stock": "6-P447",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b3d776a011b6.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70059376/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70059376/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2006,14 +2353,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD6TW486088",
       "stock": "6-P449",
       "color": "Red",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/bca2ee39b51c.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70059378/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70059378/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2023,14 +2373,17 @@
       "odometer_km": 12,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD9TW317134",
       "stock": "6-P456",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/2a516cf9ed06.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70156206/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70156206/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2040,14 +2393,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB2TW382666",
       "stock": "6-P470",
       "color": "Grey",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/3ee2b3f4f794.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70167897/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70167897/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2057,14 +2413,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB5TW097105",
       "stock": "6-P467",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/64c8acda7bd2.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70167899/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70167899/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2074,14 +2433,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB8TW382803",
       "stock": "6-P466",
       "color": "Blue",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/52e68890ca7a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70167901/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70167901/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2091,14 +2453,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BBXTW384519",
       "stock": "6-P509",
       "color": "Black",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b1cd6ef42ffc.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70378518/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70378518/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2108,14 +2473,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB6TW384226",
       "stock": "6-P508",
       "color": "Black",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/81b1052630a4.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70378519/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70378519/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2125,14 +2493,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB2TW097885",
       "stock": "6-P507",
       "color": "Blue",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/2214d8a15506.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70378522/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70378522/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2142,14 +2513,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB8TW097955",
       "stock": "6-P519",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/f546f66c86f9.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70442498/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70442498/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2159,14 +2533,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD1TW488296",
       "stock": "6-P520",
       "color": "Silver",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/bd4a54492032.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70442501/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70442501/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2176,14 +2553,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB4TW097936",
       "stock": "6-P518",
       "color": "Blue",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/20d6d317caaf.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70442503/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70442503/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2193,14 +2573,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BBXTW098587",
       "stock": "6-P545",
       "color": "Blue",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/782bebadc403.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70472077/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70472077/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2210,14 +2593,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB1TW097313",
       "stock": "6-P543",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/dbab8c1aeb7d.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70472078/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70472078/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2227,14 +2613,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB9TW384382",
       "stock": "6-P539",
       "color": "Brown",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/6385bfb050f4.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70472084/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70472084/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2244,14 +2633,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB9TW098029",
       "stock": "6-P544",
       "color": "Grey",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/179a1fd82db2.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70472088/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70472088/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2261,14 +2653,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB6TW385988",
       "stock": "6-P552",
       "color": "Grey",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/8a852595c4d2.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70483051/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70483051/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2278,14 +2673,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB7TW098045",
       "stock": "6-P553",
       "color": "Blue",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/356b13c874d1.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70483055/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70483055/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2295,14 +2693,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BBXTW386108",
       "stock": "6-P555",
       "color": "Grey",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/2b5b4cc79041.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70483056/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70483056/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2312,14 +2713,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB9TW382776",
       "stock": "6-P554",
       "color": "Black",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d7dabcb2fefa.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70483058/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70483058/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2329,14 +2733,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD S",
       "vin": "JN8BT3AB6TW098815",
       "stock": "6-P558",
       "color": "Black",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/99a2f168b299.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70536789/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70536789/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2346,14 +2753,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD S",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB9TW386150",
       "stock": "6-P560",
       "color": "White",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/17593f940474.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70536790/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70536790/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2363,14 +2773,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Dark Armor",
       "vin": "JN8BT3BB5TW385772",
       "stock": "6-P559",
       "color": "Black",
+      "trim": "SV Dark Armor",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/20ccdfef4b26.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70536791/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70536791/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2380,14 +2793,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Dark Armor",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD S",
       "vin": "JN8BT3AB2TW099587",
       "stock": "6-P557",
       "color": "Black",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/8b3b0d69126a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70536792/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70536792/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2397,14 +2813,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD S",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD S",
       "vin": "JN8BT3AB8TW385993",
       "stock": "6-P562",
       "color": "Red",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/4f77912bae07.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70538290/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70538290/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2414,14 +2833,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD S",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB4TW385245",
       "stock": "6-P564",
       "color": "White",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/0e046bb062da.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70538292/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70538292/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2431,14 +2853,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB3TW098110",
       "stock": "6-P563",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/c99782731069.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70538293/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70538293/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2448,14 +2873,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Dark Armor",
       "vin": "JN8BT3BB5TW385870",
       "stock": "6-P565",
       "color": "Red",
+      "trim": "SV Dark Armor",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b79bafc1697f.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70538294/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70538294/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2465,14 +2893,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Dark Armor",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BBXTW098153",
       "stock": "6-P575",
       "color": "White",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/adecc4f90421.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70547999/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70547999/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2482,14 +2913,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB1TW385686",
       "stock": "6-P577",
       "color": "Grey",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/e672499f4533.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70587208/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70587208/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2499,14 +2933,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB1TW385395",
       "stock": "6-P576",
       "color": "Brown",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/cf99032a3b44.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70587209/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70587209/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2516,14 +2953,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Moonroof",
       "vin": "JN8BT3BB7TW098451",
       "stock": "6-P578",
       "color": "Grey",
+      "trim": "SV Moonroof",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/a667c1e3176c.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70587211/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70587211/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2533,14 +2973,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroof",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB0TW384089",
       "stock": "6-P584",
       "color": "Grey",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/19749f6bdc67.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70617160/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70617160/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2550,14 +2993,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD8TW487470",
       "stock": "6-P586",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/458c3dc69675.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70617161/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70617161/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2567,14 +3013,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD4TW487594",
       "stock": "6-P587",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/980ba13adfcb.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70675570/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70675570/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2584,14 +3033,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD9TW322821",
       "stock": "6-P607",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/fd620504c822.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745971/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745971/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2601,14 +3053,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD2TW489831",
       "stock": "6-P603",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/8e2e71e7c1e8.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745972/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745972/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2618,14 +3073,17 @@
       "odometer_km": 8,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD7TW489808",
       "stock": "6-P605",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/88d5aed975c1.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745973/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745973/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2635,14 +3093,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD1TW489903",
       "stock": "6-P602",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/c406cadbf65e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745975/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745975/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2652,14 +3113,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD8TW489980",
       "stock": "6-P606",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/6577a65a4be0.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745977/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745977/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2669,14 +3133,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD4TW489913",
       "stock": "6-P604",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/12aaa5e7910f.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745980/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70745980/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2686,14 +3153,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB4TW386430",
       "stock": "6-P612",
       "color": "Brown",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/e37f0d810926.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70757573/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70757573/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2703,14 +3173,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD9TW490202",
       "stock": "6-P617",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/0dd9b473bd33.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70757574/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70757574/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2720,14 +3193,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD9TW323001",
       "stock": "6-P616",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/a4114c2d5487.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70757576/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70757576/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2737,14 +3213,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD0TW490198",
       "stock": "6-P613",
       "color": "Grey",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/2ac9364d3c97.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70757577/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70757577/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2754,14 +3233,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD4TW490091",
       "stock": "6-P615",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/83e398330b29.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70759163/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70759163/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2771,14 +3253,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD2TW490090",
       "stock": "6-P614",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/06cb33a84ef0.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70759164/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70759164/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2788,14 +3273,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD7TW490070",
       "stock": "6-P618",
       "color": "Silver",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/0594c29a086e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70785843/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70785843/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2805,14 +3293,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD5TW323013",
       "stock": "6-P619",
       "color": "Grey",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/c189a18e2519.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70785844/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70785844/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2822,14 +3313,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD1TW490257",
       "stock": "6-P622",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/08e8fb58c789.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70819890/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70819890/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2839,14 +3333,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DDXTW490239",
       "stock": "6-P623",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/9385c30ab63f.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70819891/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70819891/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2856,14 +3353,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD1TW325213",
       "stock": "6-P629",
       "color": "Silver",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/ad9c11df15fb.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70993846/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/70993846/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2873,14 +3373,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB9TW387198",
       "stock": "6-P630",
       "color": "Brown",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/07642bb12da0.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71014002/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71014002/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2890,14 +3393,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD8TW430119",
       "stock": "6-P633",
       "color": "Silver",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/43a011e2c89a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71016031/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71016031/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2907,14 +3413,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD SV Dark Armor",
       "vin": "JN8BT3BB9TW388464",
       "stock": "6-P631",
       "color": "White",
+      "trim": "SV Dark Armor",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/5ab5ddddd578.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71016032/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71016032/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2924,14 +3433,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD SV Dark Armor",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD4TW492813",
       "stock": "6-P632",
       "color": "Silver",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/2e48c2788ea9.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71016033/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71016033/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2941,14 +3453,17 @@
       "odometer_km": 15,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD4TW325870",
       "stock": "6-P635",
       "color": "Green",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/fdc32798cc88.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71058804/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71058804/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2958,14 +3473,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD4TW326064",
       "stock": "6-P636",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/7deef49097d2.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71129077/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71129077/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2975,14 +3493,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DDXTW325226",
       "stock": "6-P639",
       "color": "Silver",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/21f20763c7c5.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71130403/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71130403/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2992,14 +3513,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD7TW430726",
       "stock": "6-P638",
       "color": "Green",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/9bcf2459d1d5.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71130404/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71130404/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3009,14 +3533,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DDXTW430705",
       "stock": "6-P640",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/40b502f2016a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71130405/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71130405/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3026,14 +3553,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD1TW493143",
       "stock": "6-P637",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/30f77d248e91.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71130407/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71130407/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3043,14 +3573,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD1TW431564",
       "stock": "6-P642",
       "color": "Blue",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/1e6ebe4c6ee6.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71189247/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71189247/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3060,14 +3593,17 @@
       "odometer_km": 1,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD1TW012310",
       "stock": "6-P643",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/721c9b5e61ce.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71214348/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71214348/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3077,14 +3613,17 @@
       "odometer_km": 9,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BBXTW389204",
       "stock": "6-P646",
       "color": "Brown",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/78c18b81d33d.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71252044/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71252044/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3094,14 +3633,17 @@
       "odometer_km": 11,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD5TW432250",
       "stock": "6-P648",
       "color": "Green",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/c84284696864.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71340778/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71340778/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3111,14 +3653,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Platinum",
       "vin": "JN8BT3DD0TW014372",
       "stock": "6-P647",
       "color": "White",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/ab905fb9e8b3.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71340780/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71340780/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3128,14 +3673,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Platinum",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Rogue AWD Rock Creek",
       "vin": "JN8BT3BB1TW390726",
       "stock": "6-P650",
       "color": "Grey",
+      "trim": "Rock Creek",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/cdf82f81b5cc.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71405543/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/rogue/victoria/bc/71405543/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3145,14 +3693,17 @@
       "odometer_km": 1,
       "year": 2026,
       "make": "Nissan",
-      "model": "Rogue AWD Rock Creek",
-      "condition": "new"
+      "model": "Rogue",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV Premium Package",
       "vin": "3N1AB9CV7TY224017",
       "stock": "6-C028",
       "color": "White",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/0abee62cb626.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69172717/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69172717/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3162,14 +3713,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra Sedan SV Premium Package",
-      "condition": "new"
+      "model": "Sentra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV Premium Package",
       "vin": "3N1AB9CV5TY252415",
       "stock": "6-C049",
       "color": "Black",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/317847cd7873.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69625892/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69625892/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3179,14 +3733,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra Sedan SV Premium Package",
-      "condition": "new"
+      "model": "Sentra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV Premium Package",
       "vin": "3N1AB9CV0TY261863",
       "stock": "6-C055",
       "color": "Black",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/3a318a7fdf05.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69775805/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69775805/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3196,14 +3753,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra Sedan SV Premium Package",
-      "condition": "new"
+      "model": "Sentra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra Sedan SR Premium Package",
       "vin": "3N1AB9DV5TY263803",
       "stock": "6-C058",
       "color": "Blue",
+      "trim": "SR Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/f40430d17a53.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69820906/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69820906/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3213,14 +3773,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra Sedan SR Premium Package",
-      "condition": "new"
+      "model": "Sentra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV Premium Package",
       "vin": "3N1AB9CV7TY263240",
       "stock": "6-C068",
       "color": "Red",
+      "trim": "SV Premium Package",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/ae2004737f95.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69881708/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/69881708/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3230,14 +3793,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra Sedan SV Premium Package",
-      "condition": "new"
+      "model": "Sentra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV Sedan",
       "vin": "3N1AB9CV2TY276008",
       "stock": "6-C073",
       "color": "Red",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/eac691c7ca2f.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/70102967/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/70102967/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3247,14 +3813,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra Sedan SV Sedan",
-      "condition": "new"
+      "model": "Sentra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2026 Nissan Sentra Sedan SV Sedan",
       "vin": "3N1AB9CV7TY275758",
       "stock": "6-C074",
       "color": "White",
+      "trim": "SV",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/27dcd1cfe6da.html",
       "source_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/70102968/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2026/nissan/sentra-sedan/victoria/bc/70102968/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3264,14 +3833,17 @@
       "odometer_km": 10,
       "year": 2026,
       "make": "Nissan",
-      "model": "Sentra Sedan SV Sedan",
-      "condition": "new"
+      "model": "Sentra",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Frontier Crew Cab Crew Cab 4x4 Long Bed PRO-4X Luxury",
       "vin": "1N6ED1FK7VN601776",
       "stock": "27-T004",
       "color": "Black",
+      "trim": "Long Bed PRO-4X Luxury",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/4ed9c6bb78b4.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/frontier-crew-cab/victoria/bc/71328441/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/frontier-crew-cab/victoria/bc/71328441/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3281,14 +3853,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Frontier Crew Cab Crew Cab 4x4 Long Bed PRO-4X Luxury",
-      "condition": "new"
+      "model": "Frontier",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Frontier Crew Cab Crew Cab 4x4 PRO-4X",
       "vin": "1N6ED1EK6VN601365",
       "stock": "27-T007",
       "color": "Grey",
+      "trim": "PRO-4X",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/16ad04ad4d82.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/frontier-crew-cab/victoria/bc/71378620/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/frontier-crew-cab/victoria/bc/71378620/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3298,14 +3873,17 @@
       "odometer_km": 1,
       "year": 2027,
       "make": "Nissan",
-      "model": "Frontier Crew Cab Crew Cab 4x4 PRO-4X",
-      "condition": "new"
+      "model": "Frontier",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+",
       "vin": "JN1AZ2CA8VM400448",
       "stock": "27-F005",
       "color": "White",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/8b0d67f67282.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71303804/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71303804/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3315,14 +3893,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+",
       "vin": "JN1AZ2CA1VM400159",
       "stock": "27-F003",
       "color": "White",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/1bcce051f58e.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71303806/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71303806/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3332,14 +3913,17 @@
       "odometer_km": 12,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf S+",
       "vin": "JN1AZ2BAXVM400081",
       "stock": "27-F001",
       "color": "Blue",
+      "trim": "S+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/13d5fbb5101f.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71303807/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71303807/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3349,14 +3933,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf S+",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+",
       "vin": "JN1AZ2CA0VM400282",
       "stock": "27-F002",
       "color": "White",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/1944709f2002.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71303808/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71303808/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3366,14 +3953,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CA3VM400969",
       "stock": "27-F013",
       "color": "White",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/8b63622f37c7.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327108/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327108/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3383,14 +3973,17 @@
       "odometer_km": 1,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CA2VM400624",
       "stock": "27-F007",
       "color": "White",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/de7a58f1f603.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327109/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327109/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3400,14 +3993,17 @@
       "odometer_km": 12,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf S",
       "vin": "JN1BZ2BA6VM400339",
       "stock": "27-F010",
       "color": "Grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/e50a18507499.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327110/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327110/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3417,14 +4013,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf S",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CA8VM400790",
       "stock": "27-F017",
       "color": "Blue",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/fb33b397c580.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327113/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327113/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3434,14 +4033,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CA5VM400939",
       "stock": "27-F015",
       "color": "Black",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d1cc4120eab7.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327114/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327114/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3451,14 +4053,17 @@
       "odometer_km": 15,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CA0VM400718",
       "stock": "27-F012",
       "color": "Grey",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/c8f76645b039.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327115/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327115/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3468,14 +4073,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf S+ FWD",
       "vin": "JN1AZ2BA7VM400541",
       "stock": "27-F006",
       "color": "Grey",
+      "trim": "S+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/c53eb7cc1c13.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327116/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327116/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3485,14 +4093,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf S+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CA6VM400710",
       "stock": "27-F016",
       "color": "Blue",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/4e914dc6829a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327117/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327117/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3502,14 +4113,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CA3VM401149",
       "stock": "27-F014",
       "color": "White",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/f9cc880f2378.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327118/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327118/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3519,14 +4133,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf S+ FWD",
       "vin": "JN1AZ2BA8VM400791",
       "stock": "27-F011",
       "color": "Blue",
+      "trim": "S+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/ed643b73114d.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327119/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71327119/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3536,14 +4153,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf S+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CAXVM400774",
       "stock": "27-F020",
       "color": "White",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/401f4de07586.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71378618/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71378618/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3553,14 +4173,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf S FWD",
       "vin": "JN1BZ2BA8VM400844",
       "stock": "27-F019",
       "color": "Grey",
+      "trim": "S",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/cb857865b422.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71378619/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71378619/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3570,14 +4193,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf S FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf S+ FWD",
       "vin": "JN1AZ2BA4VM400982",
       "stock": "27-F018",
       "color": "White",
+      "trim": "S+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/672641dab542.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71378621/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71378621/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3587,14 +4213,17 @@
       "odometer_km": 1,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf S+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Leaf SV+ FWD",
       "vin": "JN1AZ2CA7VM401543",
       "stock": "27-F026",
       "color": "White",
+      "trim": "SV+",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/8b236956da6a.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71405542/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/leaf/victoria/bc/71405542/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3604,14 +4233,17 @@
       "odometer_km": 1,
       "year": 2027,
       "make": "Nissan",
-      "model": "Leaf SV+ FWD",
-      "condition": "new"
+      "model": "Leaf",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Murano Dark Armor AWD",
       "vin": "5N1AZ3CS2VC100966",
       "stock": "27-Q001",
       "color": "Grey",
+      "trim": "Dark Armor",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/9b7a2b7c8b75.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/murano/victoria/bc/71214347/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/murano/victoria/bc/71214347/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3621,14 +4253,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Murano Dark Armor AWD",
-      "condition": "new"
+      "model": "Murano",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Murano Platinum AWD",
       "vin": "5N1AZ3DS3VC100621",
       "stock": "27-Q002",
       "color": "Black",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/db9a925a72d8.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/murano/victoria/bc/71214350/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/murano/victoria/bc/71214350/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3638,14 +4273,17 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Murano Platinum AWD",
-      "condition": "new"
+      "model": "Murano",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     },
     {
       "name": "2027 Nissan Murano Platinum AWD",
       "vin": "5N1AZ3DS4VC104208",
       "stock": "27-Q005",
       "color": "Silver",
+      "trim": "Platinum",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d43bd1001f02.html",
       "source_url": "https://www.campusnissan.com/vehicles/2027/nissan/murano/victoria/bc/71372043/?sale_class=new",
       "dealer_url": "https://www.campusnissan.com/vehicles/2027/nissan/murano/victoria/bc/71372043/?sale_class=new&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -3655,8 +4293,10 @@
       "odometer_km": 10,
       "year": 2027,
       "make": "Nissan",
-      "model": "Murano Platinum AWD",
-      "condition": "new"
+      "model": "Murano",
+      "condition": "new",
+      "city": "Victoria",
+      "province": "BC"
     }
   ]
 }
