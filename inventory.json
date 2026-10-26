@@ -1,6 +1,6 @@
 {
   "dealership": "Campus Nissan",
-  "generated_at": "2026-10-26T01:51:28",
+  "generated_at": "2026-10-26T07:45:36",
   "vehicle_count": 225,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -563,7 +563,7 @@
       "make": "Infiniti",
       "model": "QX80",
       "condition": "used",
-      "price": 110616.0,
+      "price": 110615.0,
       "price_currency": "CAD"
     },
     {
@@ -651,7 +651,7 @@
       "make": "Nissan",
       "model": "Murano",
       "condition": "used",
-      "price": 59384.0,
+      "price": 59383.0,
       "price_currency": "CAD"
     },
     {
@@ -662,7 +662,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 39302.0,
+      "price": 39301.0,
       "price_currency": "CAD"
     },
     {
@@ -684,7 +684,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 43452.0,
+      "price": 43451.0,
       "price_currency": "CAD"
     },
     {
@@ -695,7 +695,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 45496.0,
+      "price": 45495.0,
       "price_currency": "CAD"
     },
     {
@@ -1971,7 +1971,7 @@
       "make": "Infiniti",
       "model": "QX65 SPORT AWD",
       "condition": "used",
-      "price": 72236.0,
+      "price": 72235.0,
       "price_currency": "CAD"
     },
     {
