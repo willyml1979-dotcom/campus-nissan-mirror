@@ -1,6 +1,6 @@
 {
   "dealership": "Campus Nissan",
-  "generated_at": "2026-10-26T07:45:36",
+  "generated_at": "2026-10-26T10:18:58",
   "vehicle_count": 225,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -2246,7 +2246,7 @@
       "make": "Nissan",
       "model": "Leaf",
       "condition": "new",
-      "price": 46930.0,
+      "price": 47228.0,
       "price_currency": "CAD"
     },
     {
@@ -2268,7 +2268,7 @@
       "make": "Nissan",
       "model": "Leaf",
       "condition": "new",
-      "price": 48386.0,
+      "price": 48385.0,
       "price_currency": "CAD"
     },
     {
@@ -2290,7 +2290,7 @@
       "make": "Nissan",
       "model": "Leaf",
       "condition": "new",
-      "price": 46386.0,
+      "price": 46683.0,
       "price_currency": "CAD"
     },
     {
@@ -2301,7 +2301,7 @@
       "make": "Nissan",
       "model": "Leaf",
       "condition": "new",
-      "price": 46684.0,
+      "price": 46683.0,
       "price_currency": "CAD"
     },
     {
@@ -2312,7 +2312,7 @@
       "make": "Nissan",
       "model": "Leaf",
       "condition": "new",
-      "price": 46434.0,
+      "price": 46433.0,
       "price_currency": "CAD"
     },
     {
@@ -2323,7 +2323,7 @@
       "make": "Nissan",
       "model": "Leaf",
       "condition": "new",
-      "price": 46684.0,
+      "price": 46683.0,
       "price_currency": "CAD"
     },
     {
@@ -2334,7 +2334,7 @@
       "make": "Nissan",
       "model": "Leaf",
       "condition": "new",
-      "price": 48386.0,
+      "price": 48683.0,
       "price_currency": "CAD"
     },
     {
@@ -2345,7 +2345,7 @@
       "make": "Nissan",
       "model": "Leaf",
       "condition": "new",
-      "price": 46684.0,
+      "price": 46683.0,
       "price_currency": "CAD"
     },
     {
@@ -2367,7 +2367,7 @@
       "make": "Nissan",
       "model": "Leaf",
       "condition": "new",
-      "price": 38484.0,
+      "price": 38483.0,
       "price_currency": "CAD"
     },
     {
@@ -2455,7 +2455,7 @@
       "make": "Nissan",
       "model": "Murano",
       "condition": "new",
-      "price": 58986.0,
+      "price": 58985.0,
       "price_currency": "CAD"
     },
     {
@@ -2466,7 +2466,7 @@
       "make": "Nissan",
       "model": "Murano",
       "condition": "new",
-      "price": 61286.0,
+      "price": 61285.0,
       "price_currency": "CAD"
     },
     {
@@ -2477,7 +2477,7 @@
       "make": "Nissan",
       "model": "Murano",
       "condition": "new",
-      "price": 61884.0,
+      "price": 61883.0,
       "price_currency": "CAD"
     }
   ]
