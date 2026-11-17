@@ -1,10 +1,19 @@
 {
   "dealership": "Campus Nissan",
-  "generated_at": "2026-10-26T10:18:58",
-  "vehicle_count": 225,
+  "generated_at": "2026-11-17T08:39:00",
+  "vehicle_count": 230,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "2010 Mazda CX-7 GS",
+      "vin": "JM3ER4W31A0353005",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/f2ff46c44730.html",
+      "year": 2010,
+      "make": "Mazda",
+      "model": "CX-7 GS",
+      "condition": "used"
+    },
     {
       "name": "2014 Honda CR-V Touring | AWD | Clean History |",
       "vin": "2HKRM4H92EH102741",
@@ -17,69 +26,102 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2015 Nissan Rogue ",
-      "vin": "5N1AT2MV9FC922704",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/6ecbb7b848d2.html",
+      "name": "2015 Acura RDX TECH PKG | ONE LOCAL OWNER | LOW KM'S |",
+      "vin": "5J8TB4H54FL800016",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/5ff156173000.html",
       "year": 2015,
-      "make": "Nissan",
-      "model": "Rogue",
+      "make": "Acura",
+      "model": "RDX",
       "condition": "used",
-      "price": 14595.0,
+      "price": 24595.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Nissan Qashqai S | One Local Owner | Campus Serviced |",
-      "vin": "JN1BJ1CP7HW024182",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/1f3b0149f6e9.html",
-      "year": 2017,
-      "make": "Nissan",
-      "model": "Qashqai",
+      "name": "2016 Infiniti QX80 ",
+      "vin": "JN8AZ2NC9G9400979",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/9e11d173e8e5.html",
+      "year": 2016,
+      "make": "Infiniti",
+      "model": "QX80",
       "condition": "used",
-      "price": 15595.0,
+      "price": 57596.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Honda HR-V ",
-      "vin": "3CZRU6H76JM106056",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/35eba6badb8a.html",
-      "year": 2018,
-      "make": "Honda",
-      "model": "HR-V",
+      "name": "2016 Mazda CX-5 GT | ONE BC OWNER | CLEAN HISTORY",
+      "vin": "JM3KE4DYXG0806558",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/3539e3499577.html",
+      "year": 2016,
+      "make": "Mazda",
+      "model": "CX-5",
       "condition": "used",
       "price": 20595.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Nissan Kicks S | Clean History | One Island Owner |",
-      "vin": "3N1CP5CU1JL531106",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/73d1788b41e0.html",
-      "year": 2018,
-      "make": "Nissan",
-      "model": "Kicks",
+      "name": "2017 Acura MDX TECH PKG | ONE BC ISLAND OWNER |",
+      "vin": "5FRYD4H67HB506248",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/a071391a5d45.html",
+      "year": 2017,
+      "make": "Acura",
+      "model": "MDX",
+      "condition": "used",
+      "price": 20595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2017 Infiniti Q50 3.0T Sport Premium Package | One Local Owner |",
+      "vin": "JN1EV7AR6HM835203",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d286fd42cec8.html",
+      "year": 2017,
+      "make": "Infiniti",
+      "model": "Q50",
       "condition": "used",
       "price": 15595.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Nissan Micra SV | One Local Owner | Clean History |",
-      "vin": "3N1CK3CPXKL228078",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/c2ad6f2e93ff.html",
-      "year": 2019,
-      "make": "Nissan",
-      "model": "Micra",
-      "condition": "used",
-      "price": 14455.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Nissan Rogue ",
-      "vin": "5N1AT2MV3KC763365",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/46954b7c243c.html",
-      "year": 2019,
+      "name": "2018 Nissan Rogue SL | One Local Owner | Campus Serviced |",
+      "vin": "5N1AT2MV4JC747318",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/7354579b5829.html",
+      "year": 2018,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
       "price": 19595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2018 Toyota RAV4 LE",
+      "vin": "2T3BFREV1JW826529",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d1cf1e1dfb3f.html",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "RAV4",
+      "condition": "used",
+      "price": 24595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Acura RDX A-Spec AWD | Low Kilometers | Clean Title |",
+      "vin": "5J8TC2H65KL807559",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/b8ef12ed9afa.html",
+      "year": 2019,
+      "make": "Acura",
+      "model": "RDX",
+      "condition": "used",
+      "price": 36595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2019 Jeep Cherokee Limited | One Owner | Low Kilometers |",
+      "vin": "1C4PJMDX2KD458452",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/5375d143e117.html",
+      "year": 2019,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "condition": "used",
+      "price": 21595.0,
       "price_currency": "CAD"
     },
     {
@@ -90,7 +132,18 @@
       "make": "Honda",
       "model": "Insight",
       "condition": "used",
-      "price": 28593.0,
+      "price": 26993.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2020 Nissan Rogue SV | Low Kilometers | Island Vehicle |",
+      "vin": "5N1AT2MV1LC805078",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/a0115106b459.html",
+      "year": 2020,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 22455.0,
       "price_currency": "CAD"
     },
     {
@@ -101,7 +154,7 @@
       "make": "Toyota",
       "model": "4Runner",
       "condition": "used",
-      "price": 51095.0,
+      "price": 50095.0,
       "price_currency": "CAD"
     },
     {
@@ -116,17 +169,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Chevrolet Colorado 4WD Z7 | Clean History | One Local Island Owner",
-      "vin": "1GCGTDEN1M1202041",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/e76332cabe2d.html",
-      "year": 2021,
-      "make": "Chevrolet",
-      "model": "Colorado",
-      "condition": "used",
-      "price": 35095.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Honda Pilot Touring | One Local Owner | Campus Serviced |",
       "vin": "5FNYF6H95MB501867",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/59c8995ef404.html",
@@ -138,58 +180,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Hyundai Kona Preferred | Clean History | Low Kilometers |",
-      "vin": "KM8K22AA9MU665611",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/67bf8c61b788.html",
-      "year": 2021,
-      "make": "Hyundai",
-      "model": "Kona",
+      "name": "2023 Acura RDX A-Spec AWD | One Local Owner | Clean Title |",
+      "vin": "5J8TC2H68PL800578",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/617923528db2.html",
+      "year": 2023,
+      "make": "Acura",
+      "model": "RDX",
       "condition": "used",
-      "price": 16595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Wrangler Sport S 4x4 | Clean History | One Island Owner",
-      "vin": "1C4GJXAG6MW845521",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/b1565c4c7426.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 31095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Nissan Qashqai SV | AWD | One Local Owner | Low Kilometers |",
-      "vin": "JN1BJ1BW2MW452549",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/642d257d579a.html",
-      "year": 2021,
-      "make": "Nissan",
-      "model": "Qashqai",
-      "condition": "used",
-      "price": 20595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Nissan Rogue 2021 AWD SV I One Local Owner I Low Kilometers I",
-      "vin": "5N1AT3BB2MC790641",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/f5d8048dd981.html",
-      "year": 2021,
-      "make": "Nissan",
-      "model": "Rogue 2021 AWD SV I One Local Owner I Low Kilometers I",
-      "condition": "used",
-      "price": 21593.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Nissan Rogue SV | AWD | Nissan Serviced | Low Kilometers |",
-      "vin": "5N1AT3BBXMC781346",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/030b6e18306c.html",
-      "year": 2021,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 21593.0,
+      "price": 43595.0,
       "price_currency": "CAD"
     },
     {
@@ -215,14 +213,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Qashqai SV AWD | Local Vehicle | Campus Serviced |",
-      "vin": "JN1BJ1BW7PW104525",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/82b658beecbf.html",
+      "name": "2023 Infiniti QX60 LUXE | AWD | Clean History | One Owner |",
+      "vin": "5N1DL1FS3PC352470",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/8768a37649da.html",
       "year": 2023,
-      "make": "Nissan",
-      "model": "Qashqai",
+      "make": "Infiniti",
+      "model": "QX60",
       "condition": "used",
-      "price": 25593.0,
+      "price": 38593.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Land Rover Defender X-DYNAMIC SE | Local Vehicle |",
+      "vin": "SALE27EU0P2139251",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d4b7b160172c.html",
+      "year": 2023,
+      "make": "Land",
+      "model": "Rover Defender X-DYNAMIC SE",
+      "condition": "used",
+      "price": 59595.0,
       "price_currency": "CAD"
     },
     {
@@ -233,7 +242,7 @@
       "make": "Nissan",
       "model": "Qashqai",
       "condition": "used",
-      "price": 24595.0,
+      "price": 23993.0,
       "price_currency": "CAD"
     },
     {
@@ -244,62 +253,18 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 28595.0,
+      "price": 26993.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Nissan Rogue SL | AWD | One Local Owner | Clean History |",
-      "vin": "JN8BT3CB2PW212926",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/a827524eeca3.html",
-      "year": 2023,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 28595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Acura MDX | Platinum Elite I Acura Certified I 1 Local Owner",
-      "vin": "5J8YE1H89RL803326",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/22acd11692c7.html",
-      "year": 2024,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 56595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Acura RDX A-Spec Sport Package | Clean History | Low Kms",
-      "vin": "5J8TC2H63RL804007",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/814404e1dd1d.html",
-      "year": 2024,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 48595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Infiniti Q50 LUXE | AWD | Clean History | Infiniti Serviced |",
-      "vin": "JN1EV7BR5RM631069",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/5e81484afaf5.html",
+      "name": "2024 Infiniti QX60 PURE | One Local Owner | Clean History |",
+      "vin": "5N1DL1ES3RC350979",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/2165c2dd10c1.html",
       "year": 2024,
       "make": "Infiniti",
-      "model": "Q50",
+      "model": "QX60",
       "condition": "used",
-      "price": 35595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Infiniti QX55 ESSENTIAL AWD I One Local Owner I Campus Serviced",
-      "vin": "3PCAJ5KR4RF110154",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d75929cf9125.html",
-      "year": 2024,
-      "make": "Infiniti",
-      "model": "QX55 ESSENTIAL AWD I One Local Owner I Campus Serviced",
-      "condition": "used",
-      "price": 36993.0,
+      "price": 43595.0,
       "price_currency": "CAD"
     },
     {
@@ -314,29 +279,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Kicks SR Premium | One Local Owner | Clean History |",
-      "vin": "3N1CP5DVXRL549042",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/997b614d6625.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 26595.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Kicks SV  | Clean History | One Owner |",
-      "vin": "3N1CP5CVXRL581412",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/e08c163933e9.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 24455.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Kicks ",
+      "name": "2024 Nissan Kicks SR Premium | One Local Owner | Low Kilometers |",
       "vin": "3N1CP5DV5RL525084",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/bf5726170940.html",
       "year": 2024,
@@ -347,7 +290,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Pathfinder ",
+      "name": "2024 Nissan Pathfinder Platinum | 4WD | One Local Owner | Clean History |",
       "vin": "5N1DR3DF4RC215637",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/7ac6a382648b.html",
       "year": 2024,
@@ -355,17 +298,6 @@
       "model": "Pathfinder",
       "condition": "used",
       "price": 47593.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Nissan Rogue AWD SV Moonroof | One Local Owner | Clean History",
-      "vin": "JN8BT3BB8RW286596",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d4055bcf127b.html",
-      "year": 2024,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 29595.0,
       "price_currency": "CAD"
     },
     {
@@ -388,6 +320,28 @@
       "model": "Sentra",
       "condition": "used",
       "price": 23455.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Sentra SV Moonroof Package | One Owner | Clean History |",
+      "vin": "3N1AB8CV1RY368214",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/74ceb1f78135.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 23595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Nissan Versa SR | Clean History |",
+      "vin": "3N1CN8FV3RL857528",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/be5de3878572.html",
+      "year": 2024,
+      "make": "Nissan",
+      "model": "Versa",
+      "condition": "used",
+      "price": 20595.0,
       "price_currency": "CAD"
     },
     {
@@ -424,17 +378,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Acura RDX A-Spec AWD | Clean History | Acura Certified",
-      "vin": "5J8TC2H68SL802517",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/0f39749575f9.html",
-      "year": 2025,
-      "make": "Acura",
-      "model": "RDX",
-      "condition": "used",
-      "price": 51595.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Audi Q5 Progressiv | Clean History| Low Kms | One BC Owner",
       "vin": "WA12AAGU5S2038426",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/a0795ac029ee.html",
@@ -443,17 +386,6 @@
       "model": "Q5",
       "condition": "used",
       "price": 50095.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Civic Hatchback Hybrid Sport Hybrid | Clean History | One Owner",
-      "vin": "19XFL4H88SE401311",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/c4ea7879977d.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Civic Hybrid",
-      "condition": "used",
-      "price": 34485.0,
       "price_currency": "CAD"
     },
     {
@@ -479,14 +411,58 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Kicks Play ",
-      "vin": "3N1CP5CV3SL464728",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/42366dbaf9d6.html",
+      "name": "2025 Nissan Kicks Play SV | Clean History |",
+      "vin": "3N1CP5CV0SL491370",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/cff993142b15.html",
       "year": 2025,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 23485.0,
+      "price": 23505.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Kicks Play SV | Clean History |",
+      "vin": "3N1CP5CV8SL480004",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/22365a66b27a.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 23505.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Kicks Play SV | Clean History |",
+      "vin": "3N1CP5CV7SL475926",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/8a449340ebe3.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 23505.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Kicks Play SV | Backup Camera |",
+      "vin": "3N1CP5CV8SL490712",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/271c1f39b5ea.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 23505.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Nissan Kicks Play SV | Clean History |",
+      "vin": "3N1CP5CV1SL476778",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/f12b1d375efe.html",
+      "year": 2025,
+      "make": "Nissan",
+      "model": "Kicks",
+      "condition": "used",
+      "price": 23505.0,
       "price_currency": "CAD"
     },
     {
@@ -497,18 +473,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 26993.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Nissan Rogue AWD Platinum | One Local Owner | Clean History |",
-      "vin": "JN8BT3DDXSW306349",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/ab94d5fa66a9.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 35993.0,
+      "price": 25493.0,
       "price_currency": "CAD"
     },
     {
@@ -519,7 +484,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 28595.0,
+      "price": 26993.0,
       "price_currency": "CAD"
     },
     {
@@ -534,17 +499,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Infiniti QX60 SPORT AWD",
-      "vin": "5N1AL1FSXTC342564",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/817bded4c36a.html",
-      "year": 2026,
-      "make": "Infiniti",
-      "model": "QX60",
-      "condition": "used",
-      "price": 63202.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Infiniti QX60 LUXE",
       "vin": "5N1AL1FS7TC346345",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/25aff8051f76.html",
@@ -553,6 +507,39 @@
       "model": "QX60",
       "condition": "used",
       "price": 61002.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Infiniti QX60 LUXE",
+      "vin": "5N1AL1FSXTC348574",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/9d90fa0bfff8.html",
+      "year": 2026,
+      "make": "Infiniti",
+      "model": "QX60",
+      "condition": "used",
+      "price": 61252.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Infiniti QX60 SPORT",
+      "vin": "5N1AL1FS8TC352834",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/1ff4f8bfde4c.html",
+      "year": 2026,
+      "make": "Infiniti",
+      "model": "QX60",
+      "condition": "used",
+      "price": 66252.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Infiniti QX60 SPORT",
+      "vin": "5N1AL1FS4TC350790",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d25acdbb299f.html",
+      "year": 2026,
+      "make": "Infiniti",
+      "model": "QX60",
+      "condition": "used",
+      "price": 66702.0,
       "price_currency": "CAD"
     },
     {
@@ -578,17 +565,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Armada 4x4 PRO-4X",
-      "vin": "JN8AY3DE4T9451098",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/2248b9839b73.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Armada",
-      "condition": "used",
-      "price": 90032.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Nissan Kicks SV FWD",
       "vin": "3N8AP6CEXTL348023",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/91be44f0a953.html",
@@ -596,7 +572,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 29231.0,
+      "price": 28231.0,
       "price_currency": "CAD"
     },
     {
@@ -607,18 +583,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 30126.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Kicks SV AWD Premium Package",
-      "vin": "3N8AP6CB1TL394183",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/575494e035db.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 32106.0,
+      "price": 29735.0,
       "price_currency": "CAD"
     },
     {
@@ -640,7 +605,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 34593.0,
+      "price": 33093.0,
       "price_currency": "CAD"
     },
     {
@@ -652,6 +617,17 @@
       "model": "Murano",
       "condition": "used",
       "price": 59383.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Pathfinder PLATINUM",
+      "vin": "5N1DR3DK3TC276076",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/885821c99a32.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "condition": "used",
+      "price": 62625.0,
       "price_currency": "CAD"
     },
     {
@@ -673,7 +649,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 36802.0,
+      "price": 36801.0,
       "price_currency": "CAD"
     },
     {
@@ -696,6 +672,28 @@
       "model": "Rogue",
       "condition": "used",
       "price": 45495.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Sentra SV",
+      "vin": "3N1AB9CV7TY224017",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/58e0ce9e850d.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 29253.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Nissan Sentra SV",
+      "vin": "3N1AB9CV7TY263240",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/0a2c54cbcc0d.html",
+      "year": 2026,
+      "make": "Nissan",
+      "model": "Sentra",
+      "condition": "used",
+      "price": 29503.0,
       "price_currency": "CAD"
     },
     {
@@ -1972,6 +1970,61 @@
       "model": "QX65 SPORT AWD",
       "condition": "used",
       "price": 72235.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Infiniti QX65 LUXE",
+      "vin": "5N1AC0EX6VC608768",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/b2dfcaf06a20.html",
+      "year": 2027,
+      "make": "Infiniti",
+      "model": "QX65 LUXE",
+      "condition": "used",
+      "price": 69362.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Ariya SV",
+      "vin": "JN8AF0BE1VM630075",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/5be2a1c7ddf0.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Ariya",
+      "condition": "used",
+      "price": 44919.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Frontier PRO-4X LUXURY",
+      "vin": "1N6ED1FK7VN601776",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/a239327392ad.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Frontier",
+      "condition": "used",
+      "price": 65725.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Leaf SV+",
+      "vin": "JN1AZ2CA3VM401149",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/4167de72abb0.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Leaf",
+      "condition": "used",
+      "price": 41625.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2027 Nissan Rogue SR HYBRID",
+      "vin": "JN8AT4CA9VW001566",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/c70b6186979d.html",
+      "year": 2027,
+      "make": "Nissan",
+      "model": "Rogue",
+      "condition": "used",
+      "price": 51610.0,
       "price_currency": "CAD"
     },
     {
