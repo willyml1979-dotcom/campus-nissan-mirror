@@ -1,6 +1,6 @@
 {
   "dealership": "Campus Nissan",
-  "generated_at": "2026-11-18T03:28:27",
+  "generated_at": "2026-11-18T09:33:35",
   "vehicle_count": 215,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -92,7 +92,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2018 Toyota RAV4 LE",
+      "name": "2018 Toyota RAV4 LE | ISLAND VEHICLE |",
       "vin": "2T3BFREV1JW826529",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/d1cf1e1dfb3f.html",
       "year": 2018,
@@ -418,7 +418,7 @@
       "make": "Nissan",
       "model": "Kicks",
       "condition": "used",
-      "price": 23485.0,
+      "price": 23193.0,
       "price_currency": "CAD"
     },
     {
@@ -627,7 +627,7 @@
       "make": "Nissan",
       "model": "Murano",
       "condition": "used",
-      "price": 59383.0,
+      "price": 58125.0,
       "price_currency": "CAD"
     },
     {
@@ -649,7 +649,7 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 39301.0,
+      "price": 38601.0,
       "price_currency": "CAD"
     },
     {
@@ -1793,7 +1793,7 @@
       "make": "Infiniti",
       "model": "QX65 SPORT AWD",
       "condition": "used",
-      "price": 72235.0,
+      "price": 70225.0,
       "price_currency": "CAD"
     },
     {
