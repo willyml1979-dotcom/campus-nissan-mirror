@@ -1,7 +1,7 @@
 {
   "dealership": "Campus Nissan",
-  "generated_at": "2026-11-18T00:12:16",
-  "vehicle_count": 216,
+  "generated_at": "2026-11-18T03:28:27",
+  "vehicle_count": 215,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -708,7 +708,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Armada 4x4 PRO-4X",
+      "name": "2026 Nissan Armada PRO-4X",
       "vin": "JN8AY3DEXT9451817",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/f9479152de18.html",
       "year": 2026,
@@ -1016,25 +1016,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Kicks SV AWD",
+      "name": "2026 Nissan Kicks SV",
       "vin": "3N8AP6CB9TL420643",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/6f80538d6aee.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 32532.0,
+      "price": 32531.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Kicks SV AWD Premium Package",
+      "name": "2026 Nissan Kicks SV",
       "vin": "3N8AP6CB2TL432066",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/f2aba68c9b4d.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 32832.0,
+      "price": 32831.0,
       "price_currency": "CAD"
     },
     {
@@ -1709,7 +1709,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD Platinum",
+      "name": "2026 Nissan Rogue PLATINUM",
       "vin": "JN8BT3DD3TW016701",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/e8788cebd1be.html",
       "year": 2026,
@@ -1720,7 +1720,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD S",
+      "name": "2026 Nissan Rogue S",
       "vin": "JN8BT3AB4TW103493",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/737359f55bf4.html",
       "year": 2026,
@@ -1731,14 +1731,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD Rock Creek",
+      "name": "2026 Nissan Rogue ROCK CREEK",
       "vin": "JN8BT3BBXTW389512",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/91d3c85143a3.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 40852.0,
+      "price": 39852.0,
       "price_currency": "CAD"
     },
     {
@@ -1764,25 +1764,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Sentra SV Sedan",
+      "name": "2026 Nissan Sentra SV",
       "vin": "3N1AB9CV2TY276008",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/679f5d2e345b.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
       "condition": "new",
-      "price": 28654.0,
+      "price": 28653.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Sentra SV Sedan",
+      "name": "2026 Nissan Sentra SV",
       "vin": "3N1AB9CV7TY275758",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/9ef205adda25.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Sentra",
       "condition": "new",
-      "price": 28404.0,
+      "price": 28403.0,
       "price_currency": "CAD"
     },
     {
@@ -1940,14 +1940,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Frontier Crew Cab 4x4 PRO-4X",
+      "name": "2027 Nissan Frontier PRO-4X",
       "vin": "1N6ED1EK6VN601365",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/68ea2cbc7c8e.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Frontier",
       "condition": "new",
-      "price": 63011.0,
+      "price": 63010.0,
       "price_currency": "CAD"
     },
     {
@@ -1984,51 +1984,51 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SV FWD",
+      "name": "2027 Nissan Kicks SV",
       "vin": "3N8AP6CE6VL308637",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/fd832ed1ea4a.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 32336.0,
+      "price": 32335.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SV Premium AWD",
+      "name": "2027 Nissan Kicks SV PREMIUM",
       "vin": "3N8AP6CBXVL301292",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/c01d99d1e042.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 35686.0,
+      "price": 35685.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SR Premium AWD",
+      "name": "2027 Nissan Kicks SR PREMIUM",
       "vin": "3N8AP6DDXVL320697",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/1387b2cc5bbc.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 39532.0,
+      "price": 39531.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks S FWD",
+      "name": "2027 Nissan Kicks S",
       "vin": "3N8AP6BE2VL301668",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/a7005ab362b3.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 31082.0,
+      "price": 31081.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks SV Premium AWD",
+      "name": "2027 Nissan Kicks SV PREMIUM",
       "vin": "3N8AP6CB7VL300651",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/9d49cb33f866.html",
       "year": 2027,
@@ -2039,14 +2039,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Nissan Kicks S FWD",
+      "name": "2027 Nissan Kicks S",
       "vin": "3N8AP6BE2VL310287",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/a4a329800ef7.html",
       "year": 2027,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 31082.0,
+      "price": 31081.0,
       "price_currency": "CAD"
     },
     {
@@ -2267,17 +2267,6 @@
       "model": "Leaf",
       "condition": "new",
       "price": 47228.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Nissan Leaf SV+ FWD",
-      "vin": "JN1AZ2CA5VM401704",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/2d6fe3f12b27.html",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Leaf",
-      "condition": "new",
-      "price": 46684.0,
       "price_currency": "CAD"
     },
     {
