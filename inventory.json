@@ -1,6 +1,6 @@
 {
   "dealership": "Campus Nissan",
-  "generated_at": "2026-11-17T14:04:10",
+  "generated_at": "2026-11-18T00:12:16",
   "vehicle_count": 216,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -198,7 +198,7 @@
       "make": "Chrysler",
       "model": "Grand Caravan",
       "condition": "used",
-      "price": 33595.0,
+      "price": 32891.0,
       "price_currency": "CAD"
     },
     {
@@ -210,6 +210,17 @@
       "model": "Escape",
       "condition": "used",
       "price": 24595.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2023 Honda CR-V EX-L",
+      "vin": "2HKRS4H72PH117442",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/2dcdeefe535a.html",
+      "year": 2023,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "used",
+      "price": 36095.0,
       "price_currency": "CAD"
     },
     {
@@ -275,7 +286,7 @@
       "make": "Nissan",
       "model": "Frontier",
       "condition": "used",
-      "price": 50493.0,
+      "price": 46993.0,
       "price_currency": "CAD"
     },
     {
@@ -308,18 +319,18 @@
       "make": "Nissan",
       "model": "Rogue",
       "condition": "used",
-      "price": 30493.0,
+      "price": 29993.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Nissan Sentra SV | One Owner | Moonroof Package |",
+      "name": "2024 Nissan Sentra SV | Moonroof Package | One Owner |",
       "vin": "3N1AB8CV2RY347954",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/a61f9681cf2e.html",
       "year": 2024,
       "make": "Nissan",
       "model": "Sentra",
       "condition": "used",
-      "price": 23455.0,
+      "price": 22993.0,
       "price_currency": "CAD"
     },
     {
@@ -352,7 +363,7 @@
       "make": "Acura",
       "model": "ADX A-SPEC",
       "condition": "used",
-      "price": 44999.0,
+      "price": 43215.0,
       "price_currency": "CAD"
     },
     {
@@ -363,7 +374,7 @@
       "make": "Acura",
       "model": "ADX A-SPEC",
       "condition": "used",
-      "price": 44999.0,
+      "price": 43215.0,
       "price_currency": "CAD"
     },
     {
@@ -374,7 +385,7 @@
       "make": "Acura",
       "model": "ADX A-SPEC",
       "condition": "used",
-      "price": 44999.0,
+      "price": 43215.0,
       "price_currency": "CAD"
     },
     {
@@ -385,7 +396,7 @@
       "make": "Audi",
       "model": "Q5",
       "condition": "used",
-      "price": 50095.0,
+      "price": 49095.0,
       "price_currency": "CAD"
     },
     {
@@ -396,7 +407,7 @@
       "make": "Honda",
       "model": "Civic Hybrid",
       "condition": "used",
-      "price": 31595.0,
+      "price": 31095.0,
       "price_currency": "CAD"
     },
     {
@@ -488,7 +499,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Rogue AWD S",
+      "name": "2025 Nissan Rogue S | AWD | Clean History |",
       "vin": "JN8BT3AB1SW433283",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/3782ec0afefd.html",
       "year": 2025,
@@ -506,7 +517,7 @@
       "make": "Infiniti",
       "model": "QX60",
       "condition": "used",
-      "price": 61002.0,
+      "price": 59002.0,
       "price_currency": "CAD"
     },
     {
@@ -550,7 +561,7 @@
       "make": "Infiniti",
       "model": "QX80",
       "condition": "used",
-      "price": 110615.0,
+      "price": 109927.0,
       "price_currency": "CAD"
     },
     {
@@ -561,7 +572,7 @@
       "make": "Infiniti",
       "model": "QX80",
       "condition": "used",
-      "price": 89702.0,
+      "price": 88052.0,
       "price_currency": "CAD"
     },
     {
@@ -1827,17 +1838,6 @@
       "model": "Leaf",
       "condition": "used",
       "price": 41625.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2027 Nissan Rogue SR HYBRID",
-      "vin": "JN8AT4CA9VW001566",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/c70b6186979d.html",
-      "year": 2027,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 51610.0,
       "price_currency": "CAD"
     },
     {
