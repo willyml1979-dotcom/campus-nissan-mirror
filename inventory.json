@@ -1,17 +1,17 @@
 {
   "dealership": "Campus Nissan",
-  "generated_at": "2026-11-18T12:03:35",
-  "vehicle_count": 215,
+  "generated_at": "2026-11-18T19:54:32",
+  "vehicle_count": 212,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "2010 Mazda CX-7 GS",
-      "vin": "JM3ER4W31A0353005",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/f2ff46c44730.html",
-      "year": 2010,
-      "make": "Mazda",
-      "model": "CX-7 GS",
+      "name": "2008 Subaru Impreza 2.5i",
+      "vin": "JF1GH61648G801083",
+      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/14f74c7bd44c.html",
+      "year": 2008,
+      "make": "Subaru",
+      "model": "Impreza",
       "condition": "used"
     },
     {
@@ -133,17 +133,6 @@
       "model": "Insight",
       "condition": "used",
       "price": 26993.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Nissan Rogue SV | Low Kilometers | Island Vehicle |",
-      "vin": "5N1AT2MV1LC805078",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/a0115106b459.html",
-      "year": 2020,
-      "make": "Nissan",
-      "model": "Rogue",
-      "condition": "used",
-      "price": 22455.0,
       "price_currency": "CAD"
     },
     {
@@ -477,17 +466,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Nissan Kicks SV | Clean History | One Island Owner |",
-      "vin": "3N8AP6CA2SL306084",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/c3a59ad577b6.html",
-      "year": 2025,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 25493.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Nissan Rogue AWD S  | Clean History | One Owner |",
       "vin": "JN8BT3AB3SW427047",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/de8a8807ba21.html",
@@ -573,17 +551,6 @@
       "model": "QX80",
       "condition": "used",
       "price": 88052.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Nissan Kicks SV FWD",
-      "vin": "3N8AP6CEXTL348023",
-      "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/used/91be44f0a953.html",
-      "year": 2026,
-      "make": "Nissan",
-      "model": "Kicks",
-      "condition": "used",
-      "price": 28231.0,
       "price_currency": "CAD"
     },
     {
