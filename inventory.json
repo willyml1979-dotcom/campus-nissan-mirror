@@ -1,6 +1,6 @@
 {
   "dealership": "Campus Nissan",
-  "generated_at": "2026-11-18T19:54:32",
+  "generated_at": "2026-11-18T22:38:31",
   "vehicle_count": 212,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -917,14 +917,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Kicks SR AWD Premium Package",
+      "name": "2026 Nissan Kicks SR",
       "vin": "3N8AP6DD3TL418886",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/d4727954584c.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 35761.0,
+      "price": 35011.0,
       "price_currency": "CAD"
     },
     {
@@ -939,25 +939,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Kicks SV AWD Premium Package",
+      "name": "2026 Nissan Kicks SV",
       "vin": "3N8AP6CB7TL418440",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/ba2ef1dfb681.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 33376.0,
+      "price": 33126.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Kicks SR AWD Premium Package",
+      "name": "2026 Nissan Kicks SR",
       "vin": "3N8AP6DD9TL418553",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/a009e16e3952.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Kicks",
       "condition": "new",
-      "price": 35432.0,
+      "price": 34681.0,
       "price_currency": "CAD"
     },
     {
@@ -1005,25 +1005,25 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Pathfinder Platinum 4WD",
+      "name": "2026 Nissan Pathfinder PLATINUM",
       "vin": "5N1DR3DJXTC285879",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b945cc6f2410.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "new",
-      "price": 64632.0,
+      "price": 64631.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Pathfinder Platinum 4WD",
+      "name": "2026 Nissan Pathfinder PLATINUM",
       "vin": "5N1DR3DK8TC288496",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/6e0197e8b3a4.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Pathfinder",
       "condition": "new",
-      "price": 64482.0,
+      "price": 64481.0,
       "price_currency": "CAD"
     },
     {
@@ -1049,29 +1049,29 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD Rock Creek",
+      "name": "2026 Nissan Rogue ROCK CREEK",
       "vin": "JN8BT3BB0TW376543",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/16a03b330bc2.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 40852.0,
+      "price": 38852.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD Rock Creek",
+      "name": "2026 Nissan Rogue ROCK CREEK",
       "vin": "JN8BT3BBXTW377280",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/158d1fa66e75.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 40602.0,
+      "price": 38602.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD SV Moonroof",
+      "name": "2026 Nissan Rogue SV MOONROOF",
       "vin": "JN8BT3BB5TW096620",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/9c1e12902b55.html",
       "year": 2026,
@@ -1082,7 +1082,7 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD SV Moonroof",
+      "name": "2026 Nissan Rogue SV MOONROOF",
       "vin": "JN8BT3BB7TW096893",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b3d776a011b6.html",
       "year": 2026,
@@ -1093,18 +1093,18 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD Platinum",
+      "name": "2026 Nissan Rogue PLATINUM",
       "vin": "JN8BT3DD6TW486088",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/bca2ee39b51c.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 44452.0,
+      "price": 43452.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD SV Moonroof",
+      "name": "2026 Nissan Rogue SV MOONROOF",
       "vin": "JN8BT3BB2TW382666",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/3ee2b3f4f794.html",
       "year": 2026,
@@ -1115,47 +1115,47 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD SV Moonroof",
+      "name": "2026 Nissan Rogue SV MOONROOF",
       "vin": "JN8BT3BB5TW097105",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/64c8acda7bd2.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 42502.0,
+      "price": 37502.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD SV Moonroof",
+      "name": "2026 Nissan Rogue SV MOONROOF",
       "vin": "JN8BT3BB8TW382803",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/52e68890ca7a.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 42502.0,
+      "price": 37502.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD Rock Creek",
+      "name": "2026 Nissan Rogue ROCK CREEK",
       "vin": "JN8BT3BBXTW384519",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/b1cd6ef42ffc.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 45602.0,
+      "price": 38602.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Nissan Rogue AWD Rock Creek",
+      "name": "2026 Nissan Rogue ROCK CREEK",
       "vin": "JN8BT3BB6TW384226",
       "url": "https://willyml1979-dotcom.github.io/campus-nissan-mirror/new/81b1052630a4.html",
       "year": 2026,
       "make": "Nissan",
       "model": "Rogue",
       "condition": "new",
-      "price": 45602.0,
+      "price": 38602.0,
       "price_currency": "CAD"
     },
     {
